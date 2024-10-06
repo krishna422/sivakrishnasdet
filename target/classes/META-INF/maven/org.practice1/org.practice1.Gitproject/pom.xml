@@ -4,6 +4,16 @@
   <artifactId>org.practice1.Gitproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
+    <dependency>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.21.0</version>
+</dependency>
+<dependency>
+    <groupId>io.cucumber</groupId>
+    <artifactId>cucumber-java</artifactId>
+    <version>7.18.0</version>
+</dependency>
   </dependencies>
   <profiles>
   </profiles>
